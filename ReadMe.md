@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=23B82A&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack+Junior;Especializado+en+JavaScript+y+Node.js;Creando+soluciones+web+modernas;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=23B82A&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack+Junior;Especializado+en+JavaScript+y+Node.js;Creando+soluciones+web+modernas;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas)
 
 </div>
 
