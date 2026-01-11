@@ -6,7 +6,7 @@
 
 </div>
 
-💻 **Desarrollador Full Stack Junior** apasionado por crear soluciones web innovadoras con impacto real
+💻 **Desarrollador Full Stack ** apasionado por crear soluciones web innovadoras con impacto real
 🎯 Especializado en **Python**, **JavaScript** y tecnologías web modernas
 🌱 Enfocado actualmente en **Astro + Tailwind CSS** y **React/Next.js**
 
